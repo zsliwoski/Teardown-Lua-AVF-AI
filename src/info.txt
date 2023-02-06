@@ -1,0 +1,4 @@
+name = Armed Vehicles Framework (AVF) AI
+author = elboydo, Z-Dev
+description = An expansion on the Armed Vehicle Framework that allows for any AVF vehicle to become AI enabled and fight. This mod should be enabled instead of the original Armed Vehicles Framework (AVF) mod as it makes changes to the main script.[noupload]
+tags = Gameplay

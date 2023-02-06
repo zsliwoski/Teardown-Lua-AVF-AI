@@ -1,0 +1,54 @@
+[h1]Armed Vehicle Framework (AVF) AI Expansion[/h1]
+
+The AVF AI Expansion adds additional functionality to the Armed Vehicle Framework by El Boydo. One major benefit of integrating with this system, means that it functions for every AVF vehicle built to date.
+
+The Armed Vehicle Framework, also called AVF, is a Teardown framework that enables player controlled turrets and weapons on vehicles or static weapons. 
+
+
+[h1]Features [/h1]
+
+-Target acquisition: Armed vehicles will attempt to locate a target on the opposing team, upon locating them, they will begin to hunt down their target.
+
+-Target memory: Tanks have a limited memory of their targets, and will acquire a different one if they can't detect them for long enough
+
+-Movement AI: Tanks will attempt to close the gap to drill into their target. Comes complete with path-finding implementation.
+
+-A configuration tool: A powerful tool allows players to bring any AVF vehicle to life, through a simple leftclick/rightclick method to set teams.
+
+
+[h1]Usage [/h1]
+
+1. Select the "AVF AI Config" Tool from the tool menu
+2. Look at the chassis (lower, driveable portion) of the vehicle you'd like to set the team of
+3. Set the vehicle to Opposing forces (Left Click) or Blue forces (Right Click)
+4. Watch the vehicles begin fighting eachother
+
+
+[h1]Notes [/h1]
+
+It is recommended to enable this mod over the original AVF mod, as edits were made to the main script that conflict with the original mod.
+
+Although there is a lot of functionality, improvements to optimization can be made to lower the AI component's processing time. The files included have specific "TODO:" sections that outline potential memory/processing optimizations.
+
+
+[h1]Issues/Concerns[/h1]
+
+I'm available for contact via the Teardown Discord/ through the Steam Workshop comments section. Please don't hesitate to report any issues/bugs you may see.
+
+
+[h1]Special Thanks[/h1]
+
+Finally, I'd like to extend some big thanks to people in the Teardown community.
+
+-El Boydo for the original framework and providing a great start to the allow AI implementation.
+
+-Malario for the Ratte tank, it's amazing to see two giant machines fight.
+
+-RAVEN for the insanely detailed vehicles that serve as actors in the demonstration videos
+
+-Jacob Mario for the WW2 tanks that make a cameo in the mod's screenshots
+
+-Averntus and The Mafia for the Oil Ridge map that shows up in the screenshots.
+
+
+Huge thanks to all the folks in the Teardown Discord who helped pass the time while I was working hard on building this out.
